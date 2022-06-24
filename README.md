@@ -8,7 +8,7 @@ Oyun Hakkında
 
 - Her seviyede zindan sayısı artmaktadır ve her başlangıçta zindanların yerleri değişmektedir. "R" tuşuna basarak oyunu yeniden başlatabilirsiniz.
 
-- Mause ile ateş edilir.
+- Mouse ile ateş edilir.
 
 - "SPACE" ile dash atılır.
 
@@ -16,7 +16,7 @@ Oyun Hakkında
 
 - Oyunun başlangıcında kullanıma açık sabit karakterler ve her başlangıçta kafes içinde serbest bırakılmayı bekleyen farklı karakterler ortaya çıkmaktadır. Kafesten çıkarılan karakterler kullanıma açılır ve sistemde kalır. 
 
-- Oyun verileri isteğe bağlı olarak menüden sıfırlanmaktadır.
+- Oyunun verileri isteğe bağlı olarak menüden sıfırlanmaktadır.
 
 - Her silahın ateş etme hızı ve hasar gücü farklıdır.
 
